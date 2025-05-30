@@ -1,0 +1,9 @@
+1. class and objects with explames
+class has data/attributes and function/method.
+eg;- class ;--- employee
+        data:--- name. designation,ID, salary,, etc
+        functions;-- report, ppt etc,,
+        >code walkthrough -----> oops1.py
+
+2. Why python is called OOPS(object oriented programming)??
+    ----->>>>Whypytonoopp.py
